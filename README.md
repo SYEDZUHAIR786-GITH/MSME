@@ -20,7 +20,7 @@ This is a simple web-based tool that helps local MSME businesses generate their 
 - Works completely offline
 
 ## Live Demo
-[🔗 Click here](https://your-username.github.io/website-generator/) — replace with your GitHub Pages link
+[🔗 Click here](https://zuhairshah.github.io/MSME/) — View the live demo
 
 ## License
 MIT – use it freely for your projects!
