@@ -1,4 +1,4 @@
-# Local Business Website Generator 🛠️
+# MSME - Business Website Generator 🛠️
 
 This is a simple web-based tool that helps local MSME businesses generate their own mini-website in seconds.
 
@@ -20,7 +20,7 @@ This is a simple web-based tool that helps local MSME businesses generate their 
 - Works completely offline
 
 ## Live Demo
-[🔗 Click here](https://zuhairshah.github.io/MSME/) — View the live demo
+[🔗 Click here](https://SYEDZUHAIR786-GITH.github.io/MSME/) — View the live demo
 
 ## License
 MIT – use it freely for your projects!
